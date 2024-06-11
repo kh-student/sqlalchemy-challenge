@@ -11,6 +11,6 @@
 - Analysis of the climate data can be found in the ```SurfsUp``` folder, titled ```climate_startyer_ipynb```.
 
 #### **Part 2: Design Your Climate App**
-- All data used to perform the analysis will be pulled from the ```Resources``` folder.
+- All data used to create the climate app will be pulled from the ```Resources``` folder.
 
 - The Climate App can be found in the ```SurfsUp``` folder, titled ```app.py```.
